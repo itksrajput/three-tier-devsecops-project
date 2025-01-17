@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: rk-info.shop
+    - host: www.rk-info.shop
       http:
         paths:
           - path: /
